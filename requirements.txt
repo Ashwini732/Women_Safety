@@ -1,6 +1,10 @@
-streamlit
-opencv-python
-deepface
-moviepy
-numpy
-pandas
+streamlit==1.29.0
+numpy==1.26.5
+opencv-python==4.8.1.78
+Pillow==10.0.0
+dlib==19.24.2
+deepface==0.0.88
+moviepy==1.0.3
+pydub==0.25.1
+SpeechRecognition==3.9.0
+ffmpeg-python==1.2.0
